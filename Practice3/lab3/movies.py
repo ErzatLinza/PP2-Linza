@@ -52,3 +52,34 @@ if __name__ == "__main__":
     print(movies_by_category(movies, "Romance"))
     print("All-movie average:", average_imdb(movies))
     print("Romance average:", category_average(movies, "Romance"))
+
+words = ["cat", "apple", "book", "python", "sun"]
+
+
+def long_words(words):
+    result = [word for word in words if len(word) > 4]
+    return result
+
+print(long_words(words))
+
+class Book:
+    def __init__ (self, title, author, pages):
+        self.title = title
+        self.author = author
+        self.pages = pages
+
+    def show_info(self):
+        print(self.title, self.author, self.pages)
+
+    def is_long(self):
+        if self.pages > 300:
+            return True
+        else:
+            return False
+    
+
+p1 = Book("Beethoven", "B", "400")
+p2 = Book("C++", "Alima", "200")
+
+p1.show_info()
+print(p1.is_long())
