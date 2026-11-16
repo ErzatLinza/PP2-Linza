@@ -1,0 +1,102 @@
+[
+    {
+        "email": "linzazq@gmail.com",
+        "group": "family",
+        "phone": "+77071000001",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+77071000001"
+            },
+            {
+                "type": "work",
+                "phone": "+77073003221"
+            }
+        ],
+        "surname": "",
+        "birthday": "2006-12-08",
+        "username": "linza01",
+        "created_at": null,
+        "first_name": "linza"
+    },
+    {
+        "email": null,
+        "group": "Other",
+        "phone": "+77023003110",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+77023003110"
+            }
+        ],
+        "surname": "",
+        "birthday": null,
+        "username": "amir",
+        "created_at": null,
+        "first_name": "Amir"
+    },
+    {
+        "email": null,
+        "group": "Other",
+        "phone": "+77073003220",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+77073003220"
+            }
+        ],
+        "surname": "",
+        "birthday": null,
+        "username": "linzq",
+        "created_at": null,
+        "first_name": "Erzat"
+    },
+    {
+        "email": null,
+        "group": "Other",
+        "phone": "+77171333240",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+77171333240"
+            }
+        ],
+        "surname": "Zinulin",
+        "birthday": null,
+        "username": "nur",
+        "created_at": null,
+        "first_name": "Nursultan"
+    },
+    {
+        "email": null,
+        "group": "Other",
+        "phone": "+77777777777",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+77777777777"
+            }
+        ],
+        "surname": "",
+        "birthday": null,
+        "username": "madi",
+        "created_at": null,
+        "first_name": "madi"
+    },
+    {
+        "email": null,
+        "group": null,
+        "phone": "+7771212113",
+        "phones": [
+            {
+                "type": "mobile",
+                "phone": "+7771212113"
+            }
+        ],
+        "surname": "Enaya",
+        "birthday": null,
+        "username": "aminaq",
+        "created_at": "2026-11-13T15:36:01.772501+05:00",
+        "first_name": "Kelgen"
+    }
+]
